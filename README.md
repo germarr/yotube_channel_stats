@@ -7,13 +7,13 @@ The main purpose of this code is to get the most relevant statistics from any yo
 Here's an example of the final result you can get after running the script:
 
 ```python
-url_of_a_yotube_video = "https://www.youtube.com/watch?v=<video_id>"
+url_of_a_yotube_video = "https://www.youtube.com/watch?v=WNUtEAFiDE8"
 
-Name of the channel: Name of the channel.
-Created On: 2006-03-09T23:17:35Z
-579,515,909 total views.
-47,974 published videos.
-2,480,000 subscribers.
+Name of the channel: PewDiePie
+Created On: 2010-04-29T10:54:00Z
+26,863,436,311 total views.
+4,282 published videos.
+108,000,000 subscribers.
 ```
 
 ## **Tutorial**
